@@ -1,0 +1,8 @@
+{
+    "domain": "your_integration_name",
+    "name": "Your Integration",
+    "documentation": "https://github.com/yourusername/your-repo",
+    "dependencies": [],
+    "codeowners": ["@yourusername"],
+    "requirements": []
+}
